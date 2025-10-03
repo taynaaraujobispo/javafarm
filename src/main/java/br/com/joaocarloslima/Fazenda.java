@@ -18,7 +18,7 @@ public class Fazenda {
         this.celeiro = new Celeiro(100);
     }
 
-    // Construtor flexível (caso queira mudar tamanhos)
+    // Construtor flexível 
     public Fazenda(int linhas, int colunas, int capacidadeCeleiro) {
         this.terrenos = new Terreno[linhas][colunas];
         for (int i = 0; i < linhas; i++) {
