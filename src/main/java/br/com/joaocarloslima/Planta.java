@@ -25,7 +25,6 @@ public abstract class Planta {
     }
 
     public String getImagem() {
-        // o arquivo deve existir em resources/br/com/joaocarloslima/images/
         return "images/" + nome + tamanho + ".png";
     }
 
