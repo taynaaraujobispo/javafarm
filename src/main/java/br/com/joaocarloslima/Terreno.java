@@ -5,7 +5,7 @@ public class Terreno {
     private int x;
     private int y;
 
-    // Construtor vazio (opcional)
+    // Construtor vazio 
     public Terreno() {
         this.x = -1;
         this.y = -1;
