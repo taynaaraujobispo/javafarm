@@ -8,7 +8,7 @@ public class Celeiro {
 
     public Celeiro(int capacidade) {
         this.capacidade = capacidade;
-        this.qtdeBatatas = 2;   // quantidade inicial (pode ajustar)
+        this.qtdeBatatas = 2;   // quantidade inicial 
         this.qtdeCenouras = 2;
         this.qtdeMorangos = 2;
     }
